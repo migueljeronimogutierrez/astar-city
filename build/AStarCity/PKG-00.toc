@@ -1,0 +1,74 @@
+('C:\\Users\\Nimo\\Documents\\Clases\\EUSA\\Programación de Inteligencia '
+ 'Artificial\\Ejercicios\\Bloque '
+ '4\\Gutiérrez_Miguel_Jerónimo_AStar_Proyecto\\build\\AStarCity\\AStarCity.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Nimo\\Documents\\Clases\\EUSA\\Programación de Inteligencia '
+   'Artificial\\Ejercicios\\Bloque '
+   '4\\Gutiérrez_Miguel_Jerónimo_AStar_Proyecto\\build\\AStarCity\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Nimo\\Documents\\Clases\\EUSA\\Programación de Inteligencia '
+   'Artificial\\Ejercicios\\Bloque '
+   '4\\Gutiérrez_Miguel_Jerónimo_AStar_Proyecto\\build\\AStarCity\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Nimo\\Documents\\Clases\\EUSA\\Programación de Inteligencia '
+   'Artificial\\Ejercicios\\Bloque '
+   '4\\Gutiérrez_Miguel_Jerónimo_AStar_Proyecto\\build\\AStarCity\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Nimo\\Documents\\Clases\\EUSA\\Programación de Inteligencia '
+   'Artificial\\Ejercicios\\Bloque '
+   '4\\Gutiérrez_Miguel_Jerónimo_AStar_Proyecto\\build\\AStarCity\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Nimo\\Documents\\Clases\\EUSA\\Programación de Inteligencia '
+   'Artificial\\Ejercicios\\Bloque '
+   '4\\Gutiérrez_Miguel_Jerónimo_AStar_Proyecto\\build\\AStarCity\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Nimo\\Documents\\Clases\\EUSA\\Programación de Inteligencia '
+   'Artificial\\Ejercicios\\Bloque '
+   '4\\Gutiérrez_Miguel_Jerónimo_AStar_Proyecto\\build\\AStarCity\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Nimo\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Nimo\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Nimo\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Nimo\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\Nimo\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\Nimo\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('run_game',
+   'C:\\Users\\Nimo\\Documents\\Clases\\EUSA\\Programación de Inteligencia '
+   'Artificial\\Ejercicios\\Bloque '
+   '4\\Gutiérrez_Miguel_Jerónimo_AStar_Proyecto\\run_game.py',
+   'PYSOURCE')],
+ 'python313.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
